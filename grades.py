@@ -11,7 +11,7 @@ def assign_grade(avg):
     elif avg >= 70:
         return "C"
     elif avg >= 60:
-        return "D" 
+        return "D"
     else:
         return "F"
 
